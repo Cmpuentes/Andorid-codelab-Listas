@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Lista instrumentos musicales</string>
+
+    <string name="instrumento_acordeon">Acordeón</string>
+    <string name="instrumento_bateria">Batería</string>
+    <string name="instrumento_bongos">Bongos</string>
+    <string name="instrumento_campana">Campana</string>
+    <string name="instrumento_cascabel">Cascabel</string>
+    <string name="instrumento_conga">Conga</string>
+    <string name="instrumento_flauta">Flauta</string>
+    <string name="instrumento_flauta_pan">Flauta de Pan</string>
+    <string name="instrumento_gaita">Gaita</string>
+    <string name="instrumento_guitarra">Guitarra</string>
+    <string name="instrumento_guitarra_electrica">Guitarra Eléctrica</string>
+    <string name="instrumento_maracas">Maracas</string>
+    <string name="instrumento_piano_de_cola">Piano de Cola</string>
+    <string name="instrumento_platillos">Platillos</string>
+    <string name="instrumento_saxofon">Saxofón</string>
+    <string name="instrumento_tambor">Tambor</string>
+    <string name="instrumento_trombon">Trombón</string>
+    <string name="instrumento_trompeta">Trompeta</string>
+    <string name="instrumento_violin">Violín</string>
+    <string name="instrumento_xilofono">Xilófono</string>
+
+    <string name="des_acordeon">Instrumento de viento con teclas o botones, usado en géneros populares y folclóricos.</string>
+    <string name="des_bateria">Instrumento de percusión compuesto por tambores y platillos, utilizado para marcar el ritmo.</string>
+    <string name="des_bongos">Par de pequeños tambores utilizados en la música afrocaribeña, tocados con las manos.</string>
+    <string name="des_campana">Instrumento de percusión de metal, que produce sonido al ser golpeado con un mazo.</string>
+    <string name="des_cascabel">Pequeñas esferas de metal con bolitas en su interior que producen sonido al agitarse.</string>
+    <string name="des_conga">Tambor alto de origen cubano que se toca con las manos, usado en ritmos latinos.</string>
+    <string name="des_flauta">Instrumento de viento de forma tubular, produce sonido cuando se sopla a través de su orificio.</string>
+    <string name="des_flauta_de_pan">Conjunto de tubos de diferentes tamaños, de origen andino, que se soplan para producir notas.</string>
+    <string name="des_gaita">Instrumento de viento de origen celta, con tubos sonoros y un saco de aire que se presiona.</string>
+    <string name="des_guitarra">Instrumento de cuerdas popular en muchos géneros musicales.</string>
+    <string name="des_guitarra_electrica">Instrumento de cuerdas amplificado electrónicamente, clave en el rock y otros géneros modernos.</string>
+    <string name="des_maracas">Instrumentos de percusión que se agitan para producir sonido, típicos de la música caribeña.</string>
+    <string name="des_piano_de_cola">Instrumento de teclado clásico con cuerdas, donde los martillos golpean las cuerdas al presionar las teclas.</string>
+    <string name="des_platillos">Instrumentos de percusión metálicos que producen un sonido fuerte al ser chocados entre sí.</string>
+    <string name="des_saxofon">Instrumento de viento-metal con lengüeta simple, utilizado en jazz y música clásica.</string>
+    <string name="des_tambor">Instrumento de percusión con un cuerpo hueco cubierto por una membrana, golpeado con baquetas o manos</string>
+    <string name="des_trombon">Instrumento de viento-metal con una vara deslizante que se usa para cambiar el tono.</string>
+    <string name="des_trompeta">Instrumento de viento-metal, pequeño y agudo, usado en música clásica, jazz y popular.</string>
+    <string name="des_violin">Instrumento de cuerdas frotadas, utilizado en música clásica y popular, tocado con un arco.</string>
+    <string name="des_xilofono">Instrumento de percusión formado por láminas de madera de diferentes tamaños, golpeadas con baquetas.</string>
+</resources>
